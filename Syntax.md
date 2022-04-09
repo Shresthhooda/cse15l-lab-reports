@@ -3,7 +3,7 @@
 # Part 1
 ## Part 2
 [Link](www.google.com)
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FImage&psig=AOvVaw261a7qW_8N218AZ0FP-IC0&ust=1649554611794000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNCW_vfrhfcCFQAAAAAdAAAAABAD)
+![Image](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png)
 > Hello
 * One
 * Two
