@@ -1,5 +1,7 @@
 # Remote Access
 
+##By: Shresth Hooda
+
 ## Step 1: Installing VSCode
 <img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/visual%20studio%20screenshot%201.PNG?raw=true" alt="Image" />
 
