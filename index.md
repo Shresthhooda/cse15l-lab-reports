@@ -29,6 +29,6 @@
 ` $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys ` and the ssh key should be setup.
 
 ## Step 6: Optimization
-<img src="Capture 6.png" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/Capture%206.PNG?raw=true" alt="Image" />
 
 >First you make your changes to the java file and then you enter the scp command and the ssh command in the same line using a semicolon between commands. It will then login to the server without asking for a password because of the ssh key. Then copy and paste the command ` java FileName.java` to run the file on the remote machine.
