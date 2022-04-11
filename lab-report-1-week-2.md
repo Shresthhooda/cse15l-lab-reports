@@ -1,7 +1,9 @@
 # Remote Access
 
 ## Step 1: Installing VSCode
-<img src="visual studio screenshot 1.png" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/visual%20studio%20screenshot%201.PNG?raw=true" alt="Image" />
+
+
 
 >The first step is to download visual studio from the visual studio code website and getting the right version for your computer. Then use the setup wizard to get it setup on your pc. Finally launch the application to the home screen.
 
