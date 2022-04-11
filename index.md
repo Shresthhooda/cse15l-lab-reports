@@ -28,3 +28,7 @@
 >To setup an ssh key you need to type in the command `$ ssh-keygen ` and then you need to type in the file path for the file where the key will be stored. Then enter a passphrase and then log back into the remote machine and type the command ` $ mkdir .ssh `. We then need to copy the public key to the ssh directory on the remote machine with the command 
 ` $ scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys ` and the ssh key should be setup.
 
+## Step 6: Optimization
+<img src="Capture 6.png" alt="Image" />
+
+>First you make your changes to the java file and then you enter the scp command and the ssh command in the same line using a semicolon between commands. It will then login to the server without asking for a password because of the ssh key. Then copy and paste the command ` java FileName.java` to run the file on the remote machine.
