@@ -4,15 +4,15 @@
 ---
 
 
-<img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/DiffOne.PNG?raw=trueg" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.1.PNG?raw=true" alt="Image" />
 
 > Showing `.ssh/config` file edited in VS Code.
 
-<img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/Error%201%20Space.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.2.PNG?raw=true" alt="Image" />
 
 >Showing ssh command with alias hooda
 
-<img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/Error%201%20Space.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.3.PNG?raw=true" alt="Image" />
 
 > showing scp command moving hello.txt.
 
@@ -22,11 +22,11 @@
 ## Copy whole directories with scp
 --
 
-<img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/DiffTwo.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/3.1.PNG?raw=true" alt="Image" />
 
 > Copying markdown parse directory to remote computer
 
-<img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/Error%202%20Parenthesis.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/3.2.PNG?raw=true" alt="Image" />
 
 > Running succesful tests on remote computer
 
