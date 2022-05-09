@@ -1,22 +1,26 @@
-# Test Cases by Shresth Hooda
+# Lab Report 3 by Shresth Hooda
 
-## Code Change 1
+## Streamlining SSH Configuration
 ---
 
-=======
+
 <img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/DiffOne.PNG?raw=trueg" alt="Image" />
+
+> Showing `.ssh/config` file edited in VS Code.
 
 <img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/Error%201%20Space.PNG?raw=true" alt="Image" />
 
+>Showing ssh command with alias hooda
 
+<img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/Error%201%20Space.PNG?raw=true" alt="Image" />
 
-> The link to the test file for the failure-inducing input is [here](https://github.com/Shresthhooda/markdown-parser/blob/main/test-file2.md?plain=1).
+> showing scp command moving hello.txt.
 
-> The symptom in the first test case is that an infinite loop is created. The failure-inducing input is a link with a space between the closed bracket and the open parenthesis that creates the symptom. The bug is that the link loses functionality from this test case so we must skip over it by creating an if statement to check if there is a blank space after the closed bracket and skipping over that link if there is. 
+> I created the shortcut for logging into the remote machine by changing the code in .ssh/config to recognize the username "hooda" when logging in. I then made a file hello.txt and moved into my virtual machine using scp.
 
 ---
-## Code Change 2
----
+## Setup Github Access from ieng6.
+--
 
 <img src="https://github.com/Shresthhooda/Lab_Report2/blob/main/DiffTwo.PNG?raw=true" alt="Image" />
 
