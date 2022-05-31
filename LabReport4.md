@@ -51,4 +51,4 @@
 >Our code didn't register the url for "example.com" because there was an extra second bracket, which ruined its functionality. We need to implement a small change in our code that can ignore an extra bracket so that those url's will be included in our output.
 
 **Snippet 3**
->Our code produced an error because of extra test at the end of the test file. We would be able to fix this issue by implementing something in our code to ignore any extra text after the last parenthesis. This can be done with a small change that will involve an if statement that checks for extra code at the end of the test file. 
+>Our code produced an error because of extra text at the end of the test file. We would be able to fix this issue by implementing something in our code to ignore any extra text after the last parenthesis. This can be done with a small change that will involve an if statement that checks for extra code at the end of the test file. 
