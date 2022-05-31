@@ -23,7 +23,7 @@
 
 >My output from running the tests
 
-<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.3.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport4Images/myimplementationfailures.PNG?raw=true" alt="Image" />
 
 > None of these tests passed.
 
@@ -32,13 +32,13 @@
 ---
 >Their code for running the tests
 
-<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.2.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport4Images/theirimplementationtests.PNG?raw=true" alt="Image" />
 
 >Their output from running the tests
 
-<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.2.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport4Images/theirimplementationfailuresOne.PNG?raw=true" alt="Image" />
 
-<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.2.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport4Images/theirimplementationfailuresTwo.PNG?raw=true" alt="Image" />
 
 >None of these tests passed
 
