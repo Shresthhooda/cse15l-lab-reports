@@ -19,7 +19,7 @@
 ---
 >My code for running the tests
 
-<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.2.PNG?raw=true" alt="Image" />
+<img src="https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport3Images/1.2.PNG?raw=true](https://github.com/Shresthhooda/cse15l-lab-reports/blob/main/LabReport4Images/myimplementationtests.PNG?raw=true)" alt="Image" />
 
 >My output from running the tests
 
