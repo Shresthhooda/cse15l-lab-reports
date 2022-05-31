@@ -10,10 +10,9 @@
 
 ## Expected Output
 ---
->The expected output for snippet 1 is all of the url's will be produced except for url.com
+>The expected output for snippet 1 is all of the url's will be produced except for url.com.
 
->The expected output for snippet 2 is a.com twice and then example.com
->The expected output for snippet 3 is the twitter link should work and the 
+>The expected output for snippet 2 is a.com should be produced twice and then example.com once.
 
 >The expected output for snippet 3 is the twitter link should work and the schedule link should also work. The link to the ucsd site should also work.
 ## Our implementation
